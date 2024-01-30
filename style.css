@@ -13,3 +13,7 @@ body {
 p {
   color: rgb(151, 151, 230);
 }
+
+header {
+  background-color: azure;
+}
